@@ -1,0 +1,5 @@
+user=postgres
+password=patan
+host=172.31.36.164
+port=5432
+database=informatics
