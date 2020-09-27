@@ -8,7 +8,7 @@ These are some useful commands that we constantly use when working with docker.
 
 ### 1. Basic Commands
 * List active docker processes: ``` docker ps ```
-* List all docker processes: ``` docker ps -1```
+* List all docker processes: ``` docker ps -a```
 * List images: ``` docker images ```
 * Pull images: ``` docker pull <image>:<tag> ```
 * Run a cotainer: ``` docker run -it <image>:<tag> <command> ```
